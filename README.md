@@ -1,4 +1,3 @@
-@@ -0,0 +1,27 @@
 <h1 align="center">Hi there, I'm Emma :)</h1>
 <h3 align="center">Dual Degree in Data Science & Engineering and Telecommunication Technologies @ Universidad Carlos III de Madrid (UC3M)</h3>
 
